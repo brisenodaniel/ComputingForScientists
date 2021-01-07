@@ -1,5 +1,0 @@
-foo
-bar
-foo
-squash are great
-foobar
